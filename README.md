@@ -1,4 +1,4 @@
-### Landing Page Simples :arrow_double_down:
+### Landing Page Responsiva Simples  :arrow_double_down:
 
 Fiz  em React, com HTML, JS e CSS, para treinar e fixar alguns conceitos da 
 
